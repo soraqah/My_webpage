@@ -1,0 +1,43 @@
+body {
+    color: black;
+    font-family: serif;
+    font-style: italic ;
+    background-image:  url(imeges/downtown-skyline-from-the-top-of-the-kicc-tower-nairobi-kenya-east-africa-2C5PP4H.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:0 0;
+    background-attachment:fixed;
+    font-size: medium;
+    }
+    .container{
+      margin: 10px auto ;
+      height: 100%;
+      width: 87%;
+      align-items: center;
+      text-align: center;
+
+
+    }
+    .main {
+        border-bottom: 2px solid  #030000;
+        border-left: 2px dotted  #f8d303;
+        border-top: 2px dotted #f7de05;
+        border-right: 2px solid #000;
+        width: 23rem;
+        margin: 0 auto 0 auto;
+        
+
+    }
+    .teast{
+        width: 400px;
+        height: 400px;
+        background-image: url(imeges/istockphoto-1299026534-612x612.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: contain;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+
